@@ -1,0 +1,22 @@
+.categories img{
+    height: 100px;
+}
+.pandus-bg-info{
+    background-color: #fbeae9;
+}
+.bg-watch{
+    background-color: #ffa501;
+}
+.bg-watch2{
+    background-color: #da70d6;
+}
+.bg-watch3{
+    background-color:#0000ff;
+}
+.pandas-btn{
+    background-color: #ff4891;
+    border:none;
+    color:white;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
